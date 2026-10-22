@@ -7,10 +7,9 @@ on:
   push:
     branches: [ 1. Argo XHTTP+TUIC ]
     paths:
-      - 'Dockerfile'
       - 'index.js'
       - 'package.json'
-      - 'index.html'
+      - 'start.ssh'
 
 on:
   release:
