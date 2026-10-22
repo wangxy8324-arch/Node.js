@@ -5,7 +5,7 @@ name: katabump Package
 
 on:
   push:
-    branches: [ hug ]
+    branches: [ 1. Argo XHTTP+TUIC ]
     paths:
       - 'Dockerfile'
       - 'index.js'
